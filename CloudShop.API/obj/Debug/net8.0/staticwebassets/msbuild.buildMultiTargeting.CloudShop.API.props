@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/CloudShop.API.props" />
+</Project>

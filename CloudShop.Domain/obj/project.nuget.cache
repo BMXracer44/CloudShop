@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4gFwWm0EQx8=",
+  "success": true,
+  "projectFilePath": "/home/flex/Documents/CloudShop/CloudShop.Domain/CloudShop.Domain.csproj",
+  "expectedPackageFiles": [
+    "/home/flex/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.0/microsoft.aspnetcore.app.ref.10.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
